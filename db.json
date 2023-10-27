@@ -1,31 +1,26 @@
-{
-  "cities": [
-    {
-      "id": 1,
-      "title": "New York"
-    },
-    {
-      "id": 2,
-      "title": "Albany"
-    },
-    {
-      "id": 3,
-      "title": "Buffalo"
-    }
-  ],
-  "countries": [
-    {
-      "id": 1,
-      "body": "United States",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "United States",
-      "postId": 2
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "country": "United States",
+    "id": 1,
+    "title": "New York"
+  },
+  {
+    "country": "United States",
+    "id": 2,
+    "title": "Buffalo"
+  },
+  {
+    "country": "United States",
+    "id": 3,
+    "title": "Albany"
+  },
+  {
+    "country": "United States",
+    "id": 4,
+    "title": "Ithaca"
+  },
+  {
+    "country": "United States",
+    "id": 5,
+    "title": "Middletown"
   }
-}
