@@ -33,40 +33,6 @@
         "state_name": "Badakhshan",
         "country_code": "AF",
         "country_name": "Afghanistan"
-    },
-    {
-        "id": 131,
-        "name": "Wākhān",
-        "state_name": "Badakhshan",
-        "country_code": "AF",
-        "country_name": "Afghanistan"
-    },
-    {
-        "id": 72,
-        "name": "Ghormach",
-        "state_name": "Badghis",
-        "country_code": "AF",
-        "country_name": "Afghanistan"
-    },
-    {
-        "id": 108,
-        "name": "Qala i Naw",
-        "state_name": "Badghis",
-        "country_code": "AF",
-        "country_name": "Afghanistan"
-    },
-    {
-        "id": 54,
-        "name": "Baghlān",
-        "state_name": "Baghlan",
-        "country_code": "AF",
-        "country_name": "Afghanistan"
-    },
-    {
-        "id": 140,
-        "name": "Ḩukūmatī Dahanah-ye Ghōrī",
-        "state_name": "Baghlan",
-        "country_code": "AF",
-        "country_name": "Afghanistan"
     }
+  
 ]
